@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'fontOne';
+  src: url('./assets/Akzidenz-grotesk-black.ttf');
+}
+@font-face {
+  font-family: 'fontTwo';
+  src: url('./assets/trade-gothic-lt-std-bold-condensed-no-20-5872def1d27d8.0tf');
+}
